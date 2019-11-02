@@ -1,0 +1,14 @@
+/Users/carolyn.warburton/Documents/GitHub/miniblog/bin/Debug/netcoreapp2.0/web.config
+/Users/carolyn.warburton/Documents/GitHub/miniblog/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/carolyn.warburton/Documents/GitHub/miniblog/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/carolyn.warburton/Documents/GitHub/miniblog/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/carolyn.warburton/Documents/GitHub/miniblog/bin/Debug/netcoreapp2.0/miniblog.deps.json
+/Users/carolyn.warburton/Documents/GitHub/miniblog/bin/Debug/netcoreapp2.0/miniblog.runtimeconfig.json
+/Users/carolyn.warburton/Documents/GitHub/miniblog/bin/Debug/netcoreapp2.0/miniblog.runtimeconfig.dev.json
+/Users/carolyn.warburton/Documents/GitHub/miniblog/bin/Debug/netcoreapp2.0/miniblog.dll
+/Users/carolyn.warburton/Documents/GitHub/miniblog/bin/Debug/netcoreapp2.0/miniblog.pdb
+/Users/carolyn.warburton/Documents/GitHub/miniblog/obj/Debug/netcoreapp2.0/miniblog.csprojAssemblyReference.cache
+/Users/carolyn.warburton/Documents/GitHub/miniblog/obj/Debug/netcoreapp2.0/miniblog.AssemblyInfoInputs.cache
+/Users/carolyn.warburton/Documents/GitHub/miniblog/obj/Debug/netcoreapp2.0/miniblog.AssemblyInfo.cs
+/Users/carolyn.warburton/Documents/GitHub/miniblog/obj/Debug/netcoreapp2.0/miniblog.dll
+/Users/carolyn.warburton/Documents/GitHub/miniblog/obj/Debug/netcoreapp2.0/miniblog.pdb

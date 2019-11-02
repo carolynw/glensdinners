@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj": {}
+  },
+  "projects": {
+    "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj",
+        "projectName": "glensdinners",
+        "projectPath": "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj",
+        "packagesPath": "/Users/carolyn.warburton/.nuget/packages/",
+        "outputPath": "/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/carolyn.warburton/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Azure.ImageOptimizer": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.0.39, )"
+            },
+            "LigerShark.WebOptimizer.Core": {
+              "target": "Package",
+              "version": "[1.0.236, )"
+            },
+            "LigerShark.WebOptimizer.Sass": {
+              "target": "Package",
+              "version": "[1.0.34-beta, )"
+            },
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SyndicationFeed.ReaderWriter": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "WebEssentials.AspNetCore.CdnTagHelpers": {
+              "target": "Package",
+              "version": "[1.0.16, )"
+            },
+            "WebEssentials.AspNetCore.OutputCaching": {
+              "target": "Package",
+              "version": "[1.0.28, )"
+            },
+            "WebMarkupMin.AspNetCore2": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "WilderMinds.MetaWeblog": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
