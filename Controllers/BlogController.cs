@@ -66,6 +66,20 @@ namespace miniblog.Models
             return NotFound();
         }
 
+        [Route("/geoblog/{slug?}")]
+        [OutputCache(Profile = "default")]
+        public async Task<IActionResult> Geopost(string slug)
+        {
+            var post = await _blog.GetPostBySlug(slug);
+
+            if (post != null)
+            {
+                return View(post);
+            }
+
+            return NotFound();
+        }
+
         [Route("/blog/edit/{id?}")]
         [HttpGet, Authorize]
         public async Task<IActionResult> Edit(string id)

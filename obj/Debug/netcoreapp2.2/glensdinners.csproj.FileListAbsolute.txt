@@ -20,6 +20,7 @@
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Account/Login.cshtml.g.cs
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Comments.cshtml.g.cs
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Edit.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Geopost.cshtml.g.cs
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Index.cshtml.g.cs
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Post.cshtml.g.cs
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
