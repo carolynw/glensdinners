@@ -1,31 +1,39 @@
-﻿<Properties StartupConfiguration="{AA9E7DBE-2D2A-498C-8FCA-347FA1F6BFA1}|miniblog">
+﻿<Properties StartupConfiguration="{AA9E7DBE-2D2A-498C-8FCA-347FA1F6BFA1}|Default">
   <MonoDevelop.Ide.ItemProperties.glensdinners PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/js/admin.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Post.cs">
     <Files>
-      <File FileName="Controllers/BlogController.cs" Line="73" Column="1" />
-      <File FileName="Views/Blog/Geopost.cshtml" Line="88" Column="19" />
-      <File FileName="wwwroot/js/admin.js" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="31" Column="1" />
+      <File FileName="Controllers/BlogController.cs" Line="79" Column="1" />
+      <File FileName="Views/Blog/Geopost.cshtml" Line="80" Column="1" />
+      <File FileName="wwwroot/wlwmanifest.xml" Line="1" Column="1" />
+      <File FileName="wwwroot/Posts/636435178866789258.xml" Line="4" Column="16" />
+      <File FileName="Views/Blog/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Blog/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Blog/Post.cshtml" Line="1" Column="1" />
+      <File FileName="Services/IBlogService.cs" Line="1" Column="1" />
+      <File FileName="Services/FileBlogService.cs" Line="1" Column="1" />
+      <File FileName="Models/Post.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="glensdinners" expanded="True">
             <Node name="glensdinners" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
               <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Post.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Account" expanded="True" />
                 <Node name="Blog" expanded="True" />
-                <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="js" expanded="True">
-                  <Node name="admin.js" selected="True" />
-                </Node>
-                <Node name="lib" expanded="True">
-                  <Node name="tinymce" expanded="True" />
-                </Node>
                 <Node name="Posts" expanded="True" />
               </Node>
               <Node name="appsettings.json" expanded="True" />
@@ -38,14 +46,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/carolyn.warburton/Documents/GitHub/glensdinners/ypq6cqbq.km5~" relfile="ypq6cqbq.km5~" line="73" column="1" />
-      <Breakpoint file="/Users/carolyn.warburton/Documents/GitHub/glensdinners/ypq6cqbq.km5~" relfile="ypq6cqbq.km5~" line="59" column="1" />
-      <Breakpoint file="/Users/carolyn.warburton/Documents/GitHub/miniblog/Controllers/BlogController.cs" line="59" column="1" />
-      <Breakpoint file="/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.csproj.FileListAbsolute.txt" relfile="obj/Debug/netcoreapp2.2/glensdinners.csproj.FileListAbsolute.txt" line="59" column="1" />
-      <Breakpoint file="/Users/carolyn.warburton/Documents/GitHub/glensdinners/Controllers/RobotsController.cs" relfile="Controllers/RobotsController.cs" line="20" column="1" />
-      <Breakpoint file="/Users/carolyn.warburton/Documents/GitHub/glensdinners/Controllers/RobotsController.cs" relfile="Controllers/RobotsController.cs" line="60" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

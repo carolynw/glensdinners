@@ -118,6 +118,8 @@ namespace miniblog.Models
             existing.IsPublished = post.IsPublished;
             existing.Content = post.Content.Trim();
             existing.Excerpt = post.Excerpt.Trim();
+            existing.Latitude = post.Latitude;
+            existing.Longitude = post.Longitude;
 
             await _blog.SavePost(existing);
 

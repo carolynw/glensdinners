@@ -35,6 +35,14 @@
     <textarea asp-for="@Model.Content" rows="20" aria-label="Content">@Model.Content</textarea>
     <br />
 
+    <label asp-for="@Model.Latitude" class="label">Latitude</label>
+    <input asp-for="@Model.Latitude" placeholder="Lat"/>
+     <br />
+       <label asp-for="@Model.Longitude" class="label">Longitude</label>
+    <input asp-for="@Model.Longitude" placeholder="Long"/>
+   
+    <br />
+
     <input type="submit" value="Save" title="Save the post" />
 
     @if (!isNew)

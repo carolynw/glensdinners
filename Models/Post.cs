@@ -21,6 +21,10 @@ namespace miniblog.Models
         [Required]
         public string Excerpt { get; set; }
 
+
+        public double Latitude { get; set; }
+        public double Longitude { get; set; }
+
         [Required]
         public string Content { get; set; }
 
