@@ -5,7 +5,7 @@
 }
 
 @section Head{
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+<meta charset="utf-8">
 
     <link rel="stylesheet" href="~/css/admin.scss" />
 
@@ -21,6 +21,7 @@
     </style>
 }
 
+<div class="container">
 <form method="post" id="edit" class="container" asp-controller="Blog" asp-action="UpdatePost">
     <div asp-validation-summary="All"></div>
     <input type="hidden" asp-for="@Model.ID" />
@@ -48,15 +49,20 @@
     <textarea asp-for="@Model.Content" rows="20" aria-label="Content">@Model.Content</textarea>
     <br />
 
-    <label asp-for="@Model.Latitude" class="label">Latitude</label>
-    <input asp-for="@Model.Latitude" placeholder="Lat"/>
-     <br />
-       <label asp-for="@Model.Longitude" class="label">Longitude</label>
-    <input asp-for="@Model.Longitude" placeholder="Long"/>
-   
+    <div class="row">
+        <span class="col-md-5">
+          <label asp-for="@Model.Latitude" class="label">Latitude</label>
+            <input asp-for="@Model.Latitude" placeholder="Lat"/>
+        </span>
+        <span class="col-md-5">
+          <label asp-for="@Model.Longitude" class="label">Longitude</label>
+            <input asp-for="@Model.Longitude" placeholder="Long"/>
+        </span>
+    </div>
+  
     <br />
 
-    <input type="submit" value="Save post" title="Save the post" />
+    <input type="submit" value="Save post" title="Save the post" class="btn btn-lg btn-primary" />
 
     <br/>
     <b>Address Lookup</b>
@@ -79,6 +85,7 @@
     <input asp-for="@Model.IsPublished" />
     <label asp-for="@Model.IsPublished">Is published</label>
 </form>
+</div>
 
     <div id="map"></div>
 
@@ -103,10 +110,10 @@ var options = {
  center: [startlat, startlon],
  zoom: 9
 }
-
+/*
 document.getElementById('Latitude').value = startlat;
 document.getElementById('Longitude').value = startlon;
-
+*/
 var map = L.map('map', options);
 var nzoom = 12;
 
