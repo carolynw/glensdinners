@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{AA9E7DBE-2D2A-498C-8FCA-347FA1F6BFA1}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.ItemProperties.glensdinners PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/css/admin.scss">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Blog/Edit.cshtml">
     <Files>
       <File FileName="appsettings.json" Line="1" Column="1" />
-      <File FileName="Startup.cs" Line="31" Column="1" />
-      <File FileName="Controllers/BlogController.cs" Line="120" Column="37" />
-      <File FileName="Views/Blog/Geopost.cshtml" Line="23" Column="1" />
-      <File FileName="Views/Blog/Edit.cshtml" Line="59" Column="51" />
-      <File FileName="Views/Blog/Index.cshtml" Line="17" Column="26" />
-      <File FileName="Views/Blog/Post.cshtml" Line="23" Column="1" />
-      <File FileName="Services/IBlogService.cs" Line="1" Column="1" />
-      <File FileName="Services/FileBlogService.cs" Line="211" Column="60" />
-      <File FileName="Models/Post.cs" Line="22" Column="30" />
-      <File FileName="Views/Shared/_Layout.cshtml" Line="14" Column="1" />
-      <File FileName="wwwroot/css/admin.scss" Line="11" Column="20" />
+      <File FileName="Startup.cs" />
+      <File FileName="Controllers/BlogController.cs" />
+      <File FileName="Views/Blog/Geopost.cshtml" />
+      <File FileName="Views/Blog/Edit.cshtml" Line="116" Column="3" />
+      <File FileName="Views/Blog/Index.cshtml" />
+      <File FileName="Views/Blog/Post.cshtml" />
+      <File FileName="Services/IBlogService.cs" />
+      <File FileName="Services/FileBlogService.cs" />
+      <File FileName="Models/Post.cs" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="wwwroot/css/admin.scss" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,13 +29,13 @@
               <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Blog" expanded="True" />
+                <Node name="Blog" expanded="True">
+                  <Node name="Edit.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True">
-                  <Node name="admin.scss" selected="True" />
-                </Node>
+                <Node name="css" expanded="True" />
                 <Node name="Posts" expanded="True" />
               </Node>
               <Node name="appsettings.json" expanded="True" />
