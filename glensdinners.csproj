@@ -17,10 +17,10 @@
     </PackageReference>
     <PackageReference Include="WebEssentials.AspNetCore.OutputCaching" Version="1.0.28">
     </PackageReference>
-    <PackageReference Include="WebMarkupMin.AspNetCore2" Version="2.7.0">
+    <PackageReference Include="WebMarkupMin.AspNetCore2">
     </PackageReference>
     <PackageReference Include="WilderMinds.MetaWeblog" Version="2.0.1" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.2.5">
+    <PackageReference Include="Microsoft.AspNetCore.All">
       <PrivateAssets Condition="'%(PackageReference.Version)' == ''">all</PrivateAssets>
       <Publish Condition="'%(PackageReference.Version)' == ''">true</Publish>
     </PackageReference>

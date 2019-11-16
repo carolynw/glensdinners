@@ -34,3 +34,35 @@
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.pdb
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.csproj.CopyComplete
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.csprojAssemblyReference.cache
+/Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/wwwroot/css/belowthefold.scss
+/Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.deps.json
+/Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.runtimeconfig.json
+/Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.runtimeconfig.dev.json
+/Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.dll
+/Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.pdb
+/Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.Views.dll
+/Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.Views.pdb
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorAssemblyInfo.cache
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorAssemblyInfo.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.AssemblyInfoInputs.cache
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.AssemblyInfo.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.TagHelpers.input.cache
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.TagHelpers.output.cache
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorCoreGenerate.cache
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorTargetAssemblyInfo.cache
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorTargetAssemblyInfo.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.Views.pdb
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.dll
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.pdb
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.csproj.CopyComplete
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.csprojAssemblyReference.cache
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Account/Login.g.cshtml.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Comments.g.cshtml.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Edit.g.cshtml.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Geopost.g.cshtml.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Index.g.cshtml.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Post.g.cshtml.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_SocialSharing.g.cshtml.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs

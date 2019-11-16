@@ -1,25 +1,11 @@
 ﻿<Properties StartupConfiguration="{AA9E7DBE-2D2A-498C-8FCA-347FA1F6BFA1}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.ItemProperties.glensdinners PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Blog/Edit.cshtml">
-    <Files>
-      <File FileName="appsettings.json" Line="1" Column="1" />
-      <File FileName="Startup.cs" />
-      <File FileName="Controllers/BlogController.cs" />
-      <File FileName="Views/Blog/Geopost.cshtml" />
-      <File FileName="Views/Blog/Edit.cshtml" Line="116" Column="3" />
-      <File FileName="Views/Blog/Index.cshtml" />
-      <File FileName="Views/Blog/Post.cshtml" />
-      <File FileName="Services/IBlogService.cs" />
-      <File FileName="Services/FileBlogService.cs" />
-      <File FileName="Models/Post.cs" />
-      <File FileName="Views/Shared/_Layout.cshtml" />
-      <File FileName="wwwroot/css/admin.scss" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="glensdinners" expanded="True">
-            <Node name="glensdinners" expanded="True">
+            <Node name="glensdinners" expanded="True" selected="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
                 <Node name="SdkDependencies" expanded="True" />
@@ -29,9 +15,7 @@
               <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Blog" expanded="True">
-                  <Node name="Edit.cshtml" selected="True" />
-                </Node>
+                <Node name="Blog" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">

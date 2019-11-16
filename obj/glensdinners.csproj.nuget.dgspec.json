@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj": {}
+    "/Users/glenwarburton/Google Drive/GIT/glensdinners/glensdinners.csproj": {}
   },
   "projects": {
-    "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj": {
+    "/Users/glenwarburton/Google Drive/GIT/glensdinners/glensdinners.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj",
+        "projectUniqueName": "/Users/glenwarburton/Google Drive/GIT/glensdinners/glensdinners.csproj",
         "projectName": "glensdinners",
-        "projectPath": "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj",
-        "packagesPath": "/Users/carolyn.warburton/.nuget/packages/",
-        "outputPath": "/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/",
+        "projectPath": "/Users/glenwarburton/Google Drive/GIT/glensdinners/glensdinners.csproj",
+        "packagesPath": "/Users/glenwarburton/.nuget/packages/",
+        "outputPath": "/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/carolyn.warburton/.config/NuGet/NuGet.Config"
+          "/Users/glenwarburton/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -54,8 +54,10 @@
               "version": "[1.0.34-beta, )"
             },
             "Microsoft.AspNetCore.All": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.5, )"
+              "version": "[2.2.0, )",
+              "autoReferenced": true
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -77,7 +79,7 @@
             },
             "WebMarkupMin.AspNetCore2": {
               "target": "Package",
-              "version": "[2.7.0, )"
+              "version": "(, )"
             },
             "WilderMinds.MetaWeblog": {
               "target": "Package",
@@ -85,16 +87,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100-preview2-014569/RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }
