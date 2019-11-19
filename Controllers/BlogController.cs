@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
+using Newtonsoft.Json;
 using System;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -70,10 +71,11 @@ namespace miniblog.Models
         [OutputCache(Profile = "default")]
         public async Task<IActionResult> Map(string area)
         {
-            var posts = await _blog.GetPosts(100, 100);
+            var posts = await _blog.GetPosts(100, 0);
             // TODO - get posts by area or maybe category as area
             if (posts != null)
             {
+                //var postsxml = JsonConvert.SerializeObject(posts, Newtonsoft.Json.Formatting.None);
                 return View(posts);
             }
 

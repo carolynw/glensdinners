@@ -351,3 +351,4 @@ MigrationBackup/
 .vs/glensdinners/xs/project-cache/glensdinners-Debug.json
 bin/Debug/netcoreapp2.2/glensdinners.pdb
 bin/Debug/netcoreapp2.2/glensdinners.dll
+bin/Debug/netcoreapp2.2/glensdinners.dll
