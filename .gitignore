@@ -345,3 +345,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+.vs/glensdinners/xs/project-cache/glensdinners-Debug.json
+.vs/glensdinners/xs/project-cache/glensdinners-Debug.json
+.vs/glensdinners/xs/sqlite3/storage.ide-wal
+.vs/glensdinners/xs/project-cache/glensdinners-Debug.json
+bin/Debug/netcoreapp2.2/glensdinners.pdb
+bin/Debug/netcoreapp2.2/glensdinners.dll

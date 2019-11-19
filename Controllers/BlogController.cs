@@ -66,15 +66,15 @@ namespace miniblog.Models
             return NotFound();
         }
 
-        [Route("/geoblog/{slug?}")]
+        [Route("/map/{area?}")]
         [OutputCache(Profile = "default")]
-        public async Task<IActionResult> Geopost(string slug)
+        public async Task<IActionResult> Map(string area)
         {
-            var post = await _blog.GetPostBySlug(slug);
-
-            if (post != null)
+            var posts = await _blog.GetPosts(100, 100);
+            // TODO - get posts by area or maybe category as area
+            if (posts != null)
             {
-                return View(post);
+                return View(posts);
             }
 
             return NotFound();

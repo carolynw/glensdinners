@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Post>
+@inject IOptionsSnapshot<BlogSettings> settings
+@{
+    //ViewData["Title"] = Model.Title;
+    //ViewData["Description"] = Model.Excerpt;
+
+    string host = Context.Request.Scheme + "://" + Context.Request.Host;
+
+}
+
+@section Head {
+   
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+
+<style class="text/css">
+    #map { height: 180px; }
+</style>
+}
+
+<article class="post container" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+    <header>
+        <h1 itemprop="name headline">Map view</h1>
+        
+    </header>
+
+    <div itemprop="articleBody mainEntityOfPage" cdnify>
+ 
+    </div>
+    <div>
+         <div id="map"></div>
+    </div>
+    <footer>
+   
+
+    </footer>
+</article>
+
+
+
+@section Scripts {
+
+ <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+   integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+   crossorigin=""></script>
+
+    
+<script type="text/javascript">
+    (function () {
+        
+     })();
+
+</script>
+
+}

@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{AA9E7DBE-2D2A-498C-8FCA-347FA1F6BFA1}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.ItemProperties.glensdinners PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Blog/Map.cshtml">
     <Files>
-      <File FileName=".gitignore" Line="1" Column="16" />
+      <File FileName="Views/Blog/Map.cshtml" Line="1" Column="25" />
+      <File FileName="Controllers/BlogController.cs" Line="75" Column="31" />
+      <File FileName="Services/IBlogService.cs" Line="14" Column="35" />
+      <File FileName="Views/Blog/Index.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,14 +21,15 @@
               <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Blog" expanded="True" />
+                <Node name="Blog" expanded="True">
+                  <Node name="Map.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
                 <Node name="Posts" expanded="True" />
               </Node>
-              <Node name=".gitignore" selected="True" />
               <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
