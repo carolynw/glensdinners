@@ -1,11 +1,14 @@
 ﻿<Properties StartupConfiguration="{AA9E7DBE-2D2A-498C-8FCA-347FA1F6BFA1}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.ItemProperties.glensdinners PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+    <Files>
+      <File FileName=".gitignore" Line="1" Column="16" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="glensdinners" expanded="True">
-            <Node name="glensdinners" expanded="True" selected="True">
+            <Node name="glensdinners" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
                 <Node name="SdkDependencies" expanded="True" />
@@ -22,6 +25,7 @@
                 <Node name="css" expanded="True" />
                 <Node name="Posts" expanded="True" />
               </Node>
+              <Node name=".gitignore" selected="True" />
               <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>

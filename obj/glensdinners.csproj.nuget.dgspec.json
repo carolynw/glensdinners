@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/glenwarburton/Google Drive/GIT/glensdinners/glensdinners.csproj": {}
+    "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj": {}
   },
   "projects": {
-    "/Users/glenwarburton/Google Drive/GIT/glensdinners/glensdinners.csproj": {
+    "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/glenwarburton/Google Drive/GIT/glensdinners/glensdinners.csproj",
+        "projectUniqueName": "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj",
         "projectName": "glensdinners",
-        "projectPath": "/Users/glenwarburton/Google Drive/GIT/glensdinners/glensdinners.csproj",
-        "packagesPath": "/Users/glenwarburton/.nuget/packages/",
-        "outputPath": "/Users/glenwarburton/Google Drive/GIT/glensdinners/obj/",
+        "projectPath": "/Users/carolyn.warburton/Documents/GitHub/glensdinners/glensdinners.csproj",
+        "packagesPath": "/Users/carolyn.warburton/.nuget/packages/",
+        "outputPath": "/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/glenwarburton/.config/NuGet/NuGet.Config"
+          "/Users/carolyn.warburton/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -87,10 +87,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100-preview2-014569/RuntimeIdentifierGraph.json"
         }
       }
     }
