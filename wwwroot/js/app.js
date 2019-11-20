@@ -86,7 +86,7 @@ new Vue({
     initLayers() {
       this.layers.forEach((layer) => {
         const markerFeatures = layer.features.filter(feature => feature.type === 'marker');
-        const polygonFeatures = layer.features.filter(feature => feature.type === 'polygon');
+        //const polygonFeatures = layer.features.filter(feature => feature.type === 'polygon');
         
         markerFeatures.forEach((feature) => {
           feature.leafletObject = L.marker(feature.coords)

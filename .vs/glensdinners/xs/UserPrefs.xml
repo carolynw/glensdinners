@@ -1,12 +1,17 @@
 ﻿<Properties StartupConfiguration="{AA9E7DBE-2D2A-498C-8FCA-347FA1F6BFA1}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.ItemProperties.glensdinners PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/js/app.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="Views/Blog/Map.cshtml" Line="60" Column="17" />
-      <File FileName="Controllers/BlogController.cs" Line="79" Column="36" />
-      <File FileName="Services/IBlogService.cs" Line="1" Column="1" />
-      <File FileName="Views/Blog/Index.cshtml" />
-      <File FileName="wwwroot/js/app.js" Line="1" Column="1" />
+      <File FileName="Views/Blog/Map.cshtml" Line="39" Column="14" />
+      <File FileName="Controllers/BlogController.cs" Line="78" Column="36" />
+      <File FileName="Services/IBlogService.cs" Line="64" Column="38" />
+      <File FileName="Views/Blog/Index.cshtml" Line="1" Column="1" />
+      <File FileName="wwwroot/js/app.js" Line="66" Column="11" />
+      <File FileName="Models/MapFeature.cs" Line="10" Column="41" />
+      <File FileName="Models/Comment.cs" Line="1" Column="1" />
+      <File FileName="Services/FileBlogService.cs" Line="64" Column="52" />
+      <File FileName="Views/Blog/Comments.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,14 +28,14 @@
               <Node name="Services" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Blog" expanded="True" />
-                <Node name="Shared" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
                 <Node name="img" expanded="True" />
-                <Node name="js" expanded="True">
-                  <Node name="app.js" selected="True" />
-                </Node>
+                <Node name="js" expanded="True" />
                 <Node name="lib" expanded="True" />
                 <Node name="Posts" expanded="True" />
               </Node>
@@ -45,7 +50,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint enabled="false" file="/Users/carolyn.warburton/Documents/GitHub/glensdinners/Controllers/BlogController.cs" relfile="Controllers/BlogController.cs" line="79" column="1" />
+      <Breakpoint file="/Users/carolyn.warburton/Documents/GitHub/glensdinners/Models/ijvjwp1b.rsw~" relfile="Models/ijvjwp1b.rsw~" line="68" column="1" />
+      <Breakpoint enabled="false" file="/Users/carolyn.warburton/Documents/GitHub/glensdinners/Controllers/BlogController.cs" relfile="Controllers/BlogController.cs" line="78" column="1" />
+      <Breakpoint file="/Users/carolyn.warburton/Documents/GitHub/glensdinners/Models/mc0xkumf.y2r~" relfile="Models/mc0xkumf.y2r~" line="69" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

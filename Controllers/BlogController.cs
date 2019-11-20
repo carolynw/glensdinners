@@ -71,11 +71,10 @@ namespace miniblog.Models
         [OutputCache(Profile = "default")]
         public async Task<IActionResult> Map(string area)
         {
-            var posts = await _blog.GetPosts(100, 0);
-            // TODO - get posts by area or maybe category as area
+            var posts = await _blog.GetMapLocations();
+            // TODO - get posts by area and category + add to map
             if (posts != null)
             {
-                //var postsxml = JsonConvert.SerializeObject(posts, Newtonsoft.Json.Formatting.None);
                 return View(posts);
             }
 

@@ -11,6 +11,8 @@ namespace miniblog
     {
         Task<IEnumerable<Post>> GetPosts(int count, int skip = 0);
 
+        Task<IEnumerable<MapLocation>> GetMapLocations();
+
         Task<IEnumerable<Post>> GetPostsByCategory(string category);
 
         Task<Post> GetPostBySlug(string slug);
@@ -46,6 +48,25 @@ namespace miniblog
                 .Take(count);
 
             return Task.FromResult(posts);
+        }
+
+
+        public virtual Task<IEnumerable<MapLocation>> GetMapLocations()
+        {
+            bool isAdmin = IsAdmin();
+            int count = 0;
+            var postslocations = Cache
+                .Where(p => p.PubDate <= DateTime.UtcNow && (p.IsPublished || isAdmin))
+                .Select(item => new MapLocation()
+                {
+                    id = count++,
+                    name = item.Title,
+                    slug = item.Slug,
+                    type = "marker",
+                    coords = new double[] { item.Latitude, item.Longitude }
+                });
+
+            return Task.FromResult(postslocations);
         }
 
         public virtual Task<IEnumerable<Post>> GetPostsByCategory(string category)
@@ -115,5 +136,7 @@ namespace miniblog
         {
             return ContextAccessor.HttpContext?.User?.Identity.IsAuthenticated == true;
         }
+
+
     }
 }
