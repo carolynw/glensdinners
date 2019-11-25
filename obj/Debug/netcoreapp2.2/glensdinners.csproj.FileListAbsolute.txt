@@ -1,39 +1,3 @@
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/wwwroot/css/belowthefold.scss
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/web.config
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/appsettings.Development.json
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/appsettings.json
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.deps.json
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.runtimeconfig.json
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.runtimeconfig.dev.json
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.dll
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.pdb
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.Views.dll
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.Views.pdb
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorAssemblyInfo.cache
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorAssemblyInfo.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.AssemblyInfoInputs.cache
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.AssemblyInfo.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.TagHelpers.input.cache
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.TagHelpers.output.cache
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorCoreGenerate.cache
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Account/Login.cshtml.g.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Comments.cshtml.g.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Edit.cshtml.g.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Geopost.cshtml.g.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Index.cshtml.g.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Post.cshtml.g.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_SocialSharing.cshtml.g.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorTargetAssemblyInfo.cache
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorTargetAssemblyInfo.cs
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.Views.pdb
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.dll
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.pdb
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.csproj.CopyComplete
-/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.csprojAssemblyReference.cache
 /Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/wwwroot/css/belowthefold.scss
 /Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.deps.json
 /Users/glenwarburton/Google Drive/GIT/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.runtimeconfig.json
@@ -66,3 +30,38 @@
 /Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_SocialSharing.g.cshtml.cs
 /Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
 /Users/glenwarburton/Google Drive/GIT/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/wwwroot/css/belowthefold.scss
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/web.config
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.deps.json
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.runtimeconfig.json
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.runtimeconfig.dev.json
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.dll
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.pdb
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.Views.dll
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/bin/Debug/netcoreapp2.2/glensdinners.Views.pdb
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorAssemblyInfo.cache
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorAssemblyInfo.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.AssemblyInfoInputs.cache
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.AssemblyInfo.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.TagHelpers.input.cache
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.TagHelpers.output.cache
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorCoreGenerate.cache
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Account/Login.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Comments.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Edit.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Index.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Map.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Blog/Post.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_SocialSharing.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorTargetAssemblyInfo.cache
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.RazorTargetAssemblyInfo.cs
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.Views.pdb
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.dll
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.pdb
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.csproj.CopyComplete

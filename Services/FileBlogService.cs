@@ -51,6 +51,24 @@ namespace miniblog
 
         }
 
+        public virtual Task<IEnumerable<MapLocation>> GetMapLocations()
+        {
+            bool isAdmin = IsAdmin();
+            int count = 0;
+            var postslocations = from p in _cache
+                                 where p.PubDate <= DateTime.UtcNow && (p.IsPublished || isAdmin)
+                                 select new MapLocation()
+                                 {
+                                     id = count++,
+                                     name = p.Title,
+                                     slug = p.Slug,
+                                     type = "marker",
+                                     coords = new double[] { p.Latitude, p.Longitude }
+                                 };
+
+            return Task.FromResult(postslocations);
+        }
+
         public virtual Task<Post> GetPostBySlug(string slug)
         {
             var post = _cache.FirstOrDefault(p => p.Slug.Equals(slug, StringComparison.OrdinalIgnoreCase));
@@ -283,6 +301,7 @@ namespace miniblog
         {
             return _contextAccessor.HttpContext?.User?.Identity.IsAuthenticated == true;
         }
+
 
     }
 }

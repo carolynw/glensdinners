@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
+using Newtonsoft.Json;
 using System;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -66,15 +67,15 @@ namespace miniblog.Models
             return NotFound();
         }
 
-        [Route("/geoblog/{slug?}")]
+        [Route("/map/{area?}")]
         [OutputCache(Profile = "default")]
-        public async Task<IActionResult> Geopost(string slug)
+        public async Task<IActionResult> Map(string area)
         {
-            var post = await _blog.GetPostBySlug(slug);
-
-            if (post != null)
+            var posts = await _blog.GetMapLocations();
+            // TODO - get posts by area and category + add to map
+            if (posts != null)
             {
-                return View(post);
+                return View(posts);
             }
 
             return NotFound();
