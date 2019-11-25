@@ -1,4 +1,7 @@
-﻿.delete {
+﻿body{
+    background-color: #86a7d9;
+}
+.delete {
     color: crimson;
     float: right;
 }
@@ -11,6 +14,7 @@ a.noline {
     padding-bottom: 2em;
 
     .label {
+        font-size:large;
         display: inline-block;
         margin-right: .3em;
         font-weight: bold;
