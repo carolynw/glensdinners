@@ -88,10 +88,6 @@
             "WilderMinds.MetaWeblog": {
               "target": "Package",
               "version": "[2.0.1, )"
-            },
-            "vue": {
-              "target": "Package",
-              "version": "[2.6.10, )"
             }
           },
           "imports": [
@@ -104,7 +100,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100-preview2-014569/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }

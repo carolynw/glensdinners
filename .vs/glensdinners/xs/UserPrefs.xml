@@ -1,17 +1,19 @@
-﻿<Properties StartupConfiguration="{AA9E7DBE-2D2A-498C-8FCA-347FA1F6BFA1}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+﻿<Properties StartupConfiguration="{AA9E7DBE-2D2A-498C-8FCA-347FA1F6BFA1}|miniblog" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.ItemProperties.glensdinners PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/Posts/636435178866789258.xml">
     <Files>
       <File FileName="Views/Blog/Map.cshtml" Line="39" Column="14" />
-      <File FileName="Controllers/BlogController.cs" Line="78" Column="36" />
-      <File FileName="Services/IBlogService.cs" Line="64" Column="38" />
-      <File FileName="Views/Blog/Index.cshtml" Line="1" Column="1" />
-      <File FileName="wwwroot/js/app.js" Line="66" Column="11" />
-      <File FileName="Models/MapFeature.cs" Line="10" Column="41" />
-      <File FileName="Models/Comment.cs" Line="1" Column="1" />
-      <File FileName="Services/FileBlogService.cs" Line="64" Column="52" />
-      <File FileName="Views/Blog/Comments.cshtml" Line="1" Column="1" />
-      <File FileName="Views/Shared/_Layout.cshtml" Line="13" Column="1" />
+      <File FileName="Controllers/BlogController.cs" Line="132" Column="28" />
+      <File FileName="Services/IBlogService.cs" />
+      <File FileName="Views/Blog/Index.cshtml" />
+      <File FileName="wwwroot/js/app.js" />
+      <File FileName="Models/Comment.cs" />
+      <File FileName="Services/FileBlogService.cs" />
+      <File FileName="Views/Blog/Comments.cshtml" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Startup.cs" />
+      <File FileName="wwwroot/js/admin.js" Line="84" Column="10" />
+      <File FileName="wwwroot/Posts/636435178866789258.xml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -28,16 +30,16 @@
               <Node name="Services" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Blog" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
+                <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
                 <Node name="img" expanded="True" />
                 <Node name="js" expanded="True" />
                 <Node name="lib" expanded="True" />
-                <Node name="Posts" expanded="True" />
+                <Node name="Posts" expanded="True">
+                  <Node name="636435178866789258.xml" selected="True" />
+                </Node>
               </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>

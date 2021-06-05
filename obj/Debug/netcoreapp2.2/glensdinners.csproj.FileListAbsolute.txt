@@ -65,3 +65,4 @@
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.dll
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.pdb
 /Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.csproj.CopyComplete
+/Users/carolyn.warburton/Documents/GitHub/glensdinners/obj/Debug/netcoreapp2.2/glensdinners.csprojAssemblyReference.cache

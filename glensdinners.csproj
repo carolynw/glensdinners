@@ -6,7 +6,8 @@
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'miniblog' ">
     <StartAction>Project</StartAction>
-    <ApplicationURL>https://localhost:5001;http://localhost:5000</ApplicationURL>
+    <ExternalConsole>true</ExternalConsole>
+    <ApplicationURL>http://localhost:5002</ApplicationURL>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Azure.ImageOptimizer" Version="1.1.0.39"><IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
